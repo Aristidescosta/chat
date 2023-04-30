@@ -33,4 +33,9 @@ OU
 ```
 $ yarn install
 ```
+
+Rode o projecto
+```
+$ npm start
+```
 Observe os comentários em cada arquivo para lhe auxiliar melhor!!
